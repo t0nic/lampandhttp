@@ -7,4 +7,4 @@ requires input, so watch as it runs.
 # uage
 sudo wget https://raw.githubusercontent.com/t0nic/lampandhttp/master/lampandhttps.sh <br>
 chmod +x lampandhttps.sh <br>
-./lampandhttps <br>
+./lampandhttps.sh <br>
